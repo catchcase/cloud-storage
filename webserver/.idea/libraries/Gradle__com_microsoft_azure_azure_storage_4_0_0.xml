@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.azure:azure-storage:4.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure/azure-storage/4.0.0/b31504f0fb3f9c4458ad053b426357a9b0df6e08/azure-storage-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure/azure-storage/4.0.0/d5a9d33f7329dc8b438818bfd336940f47596f9/azure-storage-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

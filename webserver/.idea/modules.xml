@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudStorageClient.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudStorageClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudStorageClient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudStorageClient_main.iml" group="CloudStorageClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudStorageClient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudStorageClient_test.iml" group="CloudStorageClient" />
+      <module fileurl="file://$PROJECT_DIR$/webserver.iml" filepath="$PROJECT_DIR$/webserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webserver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/webserver_main.iml" group="webserver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webserver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/webserver_test.iml" group="webserver" />
+    </modules>
+  </component>
+</project>
